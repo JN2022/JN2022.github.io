@@ -1,4 +1,4 @@
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[Home](./). [cv](./assets/files/CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 ### failed projects 
 
