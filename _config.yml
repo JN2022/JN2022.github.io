@@ -4,6 +4,6 @@ logo: /assets/img/profile10.png
 description: Phd candidate majoring quantative Marketing at HEC Paris 
 Yoshow_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal??????
+theme: jekyll-theme-minimal
 plugins:
-  - jekyll-seo-tag??????
+  - jekyll-seo-tag
