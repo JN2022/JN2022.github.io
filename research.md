@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./). [CV](./assets/files/CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
+[Home](./). [CV](./assets/files/Jing Niu CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 ### research 
 
