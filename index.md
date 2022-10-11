@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[Home](./). [CV](./assets/files/CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 I’m Phd candidate majoring in quatative marketing at HEC Paris. 
 
