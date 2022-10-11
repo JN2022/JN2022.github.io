@@ -10,7 +10,7 @@ Through my research , I analyze social media data using various empirical method
 
 In general, my research interests include understanding the drivers and outcomes of users’ participation in online communities, the patterns of social media influencers' content creation and their impacts, new factors that influence influencer campaign effectiveness, as well as influencers' self-motivated communication strategy adjustments and their outcomes.    
 
-
+I will be on the academic job market for 2022-2023.
 
 <!--
 
