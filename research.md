@@ -52,7 +52,7 @@ Seminar and conference talks:<br/>
 
 <!--xx-->
 
-#### selected work in progress:
+#### Selected work in progress:
 \-What is the impact of influencer's creativity on influencer campaign performance? <br/>
 \-How do live-streaming content creators adjust their behavior as audience sentiment varies?<br/>
 
