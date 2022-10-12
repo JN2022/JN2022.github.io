@@ -4,10 +4,10 @@
 
 I consider teaching as an integral part of academic work that builds an important bridge between marketing research and practice. 
 
-I guest lectured in the following courses: 
-<ins> Business analytics<br/> (Masters), 2022 
+I guest lectured in the following courses: <br/> 
+<ins> Business analytics (Master), 2022 <br/>
   
-<ins> Meta analysis<br/> (Phd), 2021 
+<ins> Meta analysis (Phd), 2021 <br/> 
 
 I help prepare for course materials and organize exersice sessions for the following courses:  
 <ins>Statistics and business analytics, 2020-2022<br/>
