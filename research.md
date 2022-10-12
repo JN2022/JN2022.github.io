@@ -8,20 +8,8 @@ layout: default
 
 I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.edu/en/knowledge/authors/ebbes-peter), [Kristine De Valck](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/devalck-kristine) (co-chairs) at HEC. 
 
-In general, my research interests in <ins>online communities participation</ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
+In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
 In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>
-
-
-
-<!--
-I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles) at MIT, and [Vishal Singh](http://people.stern.nyu.edu/vsingh/index.html) at NYU. 
-#### general interests:
-<ins>Topic:</ins> Video Advertising, Targeting Interventions, <br/>
-Entertainment Commerce, Incentive Design<br/>
-<ins>Method:</ins> Computer Vision, Reinforcement Learning, <br/>
-Natural Language Processing, Causal Inference
-I'm fortuante to have my training supervised by [Juanjuan Zhang](https://mitsloan.mit.edu/faculty/directory/juanjuan-zhang), [Sinan Aral](https://mitsloan.mit.edu/faculty/directory/sinan-kayhan-aral) (co-chairs), and [Dean Eckles](https://mitsloan.mit.edu/faculty/directory/dean-eckles). Yes, pun intended. Outside of MIT, I'm working with . I'm also affiliated with the [Initiative on the Digital Economy](http://ide.mit.edu), [Social Analytics Lab](https://www.sinanaral.io/research/lab), [Behavioral Research Lab](https://brl.mit.edu), and the [American Statistical Association](https://www.amstat.org/).
--->
 
 #### working papers:
 
