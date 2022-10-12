@@ -11,20 +11,11 @@ I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.ed
 In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
 In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>
 
-#### working papers:
+#### Working papers:
 
-<ins>**Targeting for Long-Term Outcomes**</ins><br/> 
-Jeremy Yang, Dean Eckles, Paramveer Dhillon, Sinan Aral <br/> 
-
-[<a href="https://arxiv.org/pdf/2010.15835.pdf">paper</a>] [[slides](./assets/files/targeting.pdf)] [<a href="https://www.dropbox.com/s/0dq0vgwgjund7qb/targeting_informs.mov?dl=0">talk</a>] [<a href="https://twitter.com/deaneckles/status/1323396125601210372?s=20">tweet</a>] [<a href="http://ide.mit.edu/news-blog/blog/new-methods-improve-customer-targeting-business-outcomes">media</a>] 
-
-Accepted at _Management Science_<br/>
-
-\- _American Statistical Association Dissertation Award (2021/1)_<br/> 
-\- _INFORMS Annual Meeting Best Paper Award (2020/11)_<br/>
-\- _Accepted for Presentation at the NeurIPS Conference (2019/12)_<br/> 
-
-<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.
+<ins>**Beyond follower size--investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance.**</ins><br/> 
+With De Valck. K., and Ebbes. P. <br/> 
+<!--<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.-->
 
 seminar and conference talks:<br/>
 \- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
