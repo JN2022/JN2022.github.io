@@ -53,8 +53,8 @@ Seminar and conference talks:<br/>
 <!--xx-->
 
 #### selected work in progress:
-<ins>What is the impact of influencer's creativity on influencer campaign performance?</ins> <br/>
-<ins>How do live-streaming content creators adjust their behavior as audience sentiment varies?</ins> <br/>
+\-What is the impact of influencer's creativity on influencer campaign performance? <br/>
+\-How do live-streaming content creators adjust their behavior as audience sentiment varies?<br/>
 
 
 
