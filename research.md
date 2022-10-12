@@ -41,25 +41,20 @@ Seminar and conference talks:<br/>
 <ins>**The drivers and outcomes of online community participation-a meta-analysis**</ins><br/> 
 With De Valck. K., and Wiertz. C. <br/>
 
-<!--<ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.>
-
 Seminar and conference talks:<br/>
 \- Interactive Marketing Research Conference, 2020<br/>
 \- INFORMS Marketing Science Conference, 2020<br/>
 
+<!--<ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.>
 
-<!---->
+
+
+
+<!--xx-->
 
 #### selected work in progress:
-<ins>Sequential Paywall Design with Reinforcement Learning</ins> <br/>
-<ins>Activation: The Change of User Intention on TikTok</ins> <br/>
-<ins>Attribution and Targeting without Apple IDFA</ins> <br/>
-<ins>Misinformation on COVID-19</ins>
-<ins>The Shape of Humor</ins> <br/>
-<ins>Information Revelation and Diffusion</ins> [analysis & writing] <br/>
-<ins>Using Bounded Outcome to Improve the Design of Exploration Policy</ins> [analysis & writing] <br/> 
-<ins>Creative Decay: Predicting Advertisement Half-Life<br/>
-<sup>**</sup>Presented by a co-author <br/>
+<ins>What is the impact of influencer's creativity on influencer campaign performance?</ins> <br/>
+<ins>How do live-streaming content creators adjust their behavior as audience sentiment varies?</ins> <br/>
 
 
 
