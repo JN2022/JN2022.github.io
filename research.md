@@ -23,15 +23,19 @@ Seminar and conference talks:<br/>
 \- ESSEC-HEC-INSEAD Marketing Campaign, 2022<br/>
 \- HiPARIS Summer School on AI \& Data for Science - Post session, 2022<br/>
 
-<ins>**The effectiveness of social media influencer campaigns **</ins><br/> 
+<ins>**The effectiveness of social media influencer campaigns**
+</ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
-<!-- \- _Job Market Paper_<br/> -->
-
-<!--<ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency. -->
 
 Seminar and conference talks:<br/>
 \- (Session chair) INFORMS Marketing Science Conference, 2020<br/>
 \- (Accepted but canceled due to Covid-19) European Marketing Academy Conference, 2020<br/>
+
+<!-- \- _Job Market Paper_<br/> -->
+
+<!--<ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency. -->
+
+
 
 
 <ins>**The drivers and outcomes of online community participation-a meta-analysis**</ins><br/> 
