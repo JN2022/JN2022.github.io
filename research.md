@@ -13,94 +13,36 @@ In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>
 
 #### Working papers:
 
-<ins>**Beyond follower size--investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance.**</ins><br/> 
+<ins>**Beyond follower size--investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance.**
+</ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
 <!--<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.-->
 
 seminar and conference talks:<br/>
-\- Junior Quantitative Marketing Conference, Yale (2022/9)<br/>
-\- Summer Institute in Competitive Strategy, UC Berkeley (2022/6)<br/>
-\- Marketplace Innovations Workshop (2022/5)<br/>
-\- Management, Analytics, and Data Conference, Columbia (2022/5)<br/>
-\- Marketing Research Camp, Harvard (2022/5)<br/>
-\- Theory + Practice in Marketing, Emory (2022/5)<br/>
-\- Core Data Science, Meta (2021/12)<br/>
-\- Big Data in Mobile Analytics, Temple (2021/12)<br/>
-\- Causal Inference Symposium, RAND Corporation (2021/6)<br/>
-\- American Economic Association Annual Meeting (2021/1)<br/>
-\- School of Business, Hebrew University of Jerusalem (2020/12)<br/>
-\- Workshop on Information Systems and Economics (2020/12)<br/>
-\- Inference and Statistics Reading Group, Lyft (2020/12)<br/>
-\- INFORMS Annual Meeting (2020/11)<br/>
-\- Conference on Computational Social Science, MIT (2020/7)<br/>
-\- IDE Annual Conference, MIT (2020/5)<br/>
-\- Marketing Seminar, MIT (2020/5)<br/>
-\- NeurIPS CausalML Workshop (2019/12)<br/>
-\- HBS Digital Doctoral Workshop, Harvard (2019/12)<br/>
-\- Conference on Digital Experimentation, MIT (2019/11)<br/>
-\- Advances on Field Experiments, Chicago (2019/7)<br/>
+\- European Marketing Academy Conference Doctoral Colloquium, 2022<br/>
+\- ESSEC-HEC-INSEAD Marketing Campaign, 2022<br/>
+\- HiPARIS Summer School on AI \& Data for Science - Post session, 2022<br/>
 
-<ins>**First Law of Motion: <br/>
-Influencer Video Advertising on TikTok**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>--> <br/>
-Jeremy Yang<sup>*</sup>, Juanjuan Zhang, Yuhan Zhang
-
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815124">paper</a>] [<a href="https://www.dropbox.com/s/5358t0sdrv0uqay/first_law_of_motion_short.key?dl=0">slides</a>] [<a href="https://www.dropbox.com/s/385d8dnx9ooa08m/miw.mp4?dl=0">talk</a>] [<a href="https://twitter.com/jeremyzyang/status/1380897217423216643?s=20">tweet</a>] [<a href="https://medium.com/mit-initiative-on-the-digital-economy/what-makes-tiktok-video-ads-tick-9486ed94724c">media</a>]
-
-Major Revision at _Marketing Science_<br/>
-
-\- _JMS China Annual Conference Best Paper Award (2021/11)_<br/>
-\- _MSI Alden G. Clayton Doctoral Dissertation Award (2021/5)_<br/> 
-\- _MIT Sloan Doctoral Research Forum Thesis Prize (2021/4)_<br/> 
-
+<ins>**The effectiveness of social media influencer campaigns **
+</ins><br/> 
+With De Valck. K., and Ebbes. P. <br/> 
 <!-- \- _Job Market Paper_<br/> -->
 
-<ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency.
+<!--<ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency. -->
 
 seminar and conference talks:<br/>
-\- China India Insights Conference, USC (2022/10)<br/>
-\- QME Rossi Seminar, Northwestern (2022/5)<br/>
-\- Data Science in a Digital World Conference, Harvard (2022/5)<br/>
-\- CMO Summit, MIT (2022/4)<br/>
-\- Core Data Science, Meta (2021/12)<br/>
-\- Bauer College of Business, Houston (2021/11)<br/>
-\- ISPOC Seminar (2021/8)<br/>
-\- Marketing Science, TikTok (2021/7)<br/>
-\- Theory + Practice in Marketing, Wharton (2021/6)<br/>
-\- Marketing Science Conference, Rochester (2021/6)<br/>
-\- IDE Annual Conference, MIT (2021/5)<br/>
-\- Artificial Intelligence in Management Conference, USC (2021/5)<br/>
-\- Sloan Doctoral Research Forum, MIT (2021/4)<br/>
-\- Paris Conference on Digital Economics Workshop (2021/4)<br/>
-\- National School of Development, PKU (2021/3)<br/>
-\- Rotterdam School of Management, Erasmus (2021/3)<br/>
-\- Columbia Business School, Columbia (2021/2)<br/>
-\- ICCIT & School of Management, Toronto (2021/2)<br/>
-\- Darden School of Business, Virginia (2021/2)<br/>
-\- School of Business, Washington (2021/1)<br/>
-\- Cheung Kong Graduate School of Business (2021/1)<br/>
-\- Harvard Business School, Harvard (2021/1)<br/>
-\- HEC Paris & Hi! Paris Center on AI and Data Analytics (2021/1)<br/>
-\- Krannert School of Management, Purdue (2021/1)<br/>
-\- College of Business, City University of Hong Kong (2021/1)<br/>
-\- Big Data in Mobile Analytics, Temple (2020/12)<br/>
-\- Conference on AI/ML, NYU, CMU & Temple (2020/12)<br/>
-\- HKU Business School, HKU (2020/11)<br/>
-\- Conference on Digital Experimentation, MIT (2020/11)<br/>
-\- Marketing Seminar, MIT (2020/11)<br/>
-\- HBS Digital Doctoral Workshop, Harvard (2020/11)<br/>
+\- (Session chair) INFORMS Marketing Science Conference, 2020<br/>
+\- (Accepted but canceled due to Covid-19) European Marketing Academy Conference, 2020<br/>
 
-<!--
-Abstract: TikTok is the most popular short video platform in the world with over 500M active users. We show three sets of early results using a unique dataset with detailed information on influencer created advertising videos, user engagement with the video (e.g., like, comment and share) and product page visits and sales on Douyin (the Chinese version of TikTok) : (1) by exploiting the differential timing of video posting, we use a difference in difference approach to estimate the causal effect of influencer advertising on product page visits and sales and calculate influencer ROI, (2) we use methods in computer vision to extract feature embeddings from the videos and show that video content and influencer fixed effect explains about the same amount of variation in sales, (3) somewhat surprisingly, user engagement with the video is not predictive of sales, it suggests that it might not be a good idea for brands to choose influencers based on past engagement if they want to generate short-term sales.
-\- ISMS Marketing Science Conference, University of Roma Tre (2019/6)<sup>**</sup><br/>
-\- Quantitative Marketing and Economics, Stanford & UCLA (2020/10)<sup>**</sup><br/>
--->
 
-<!--
-<ins>**Identification and Bias-Amplification: Latent Space Approach to Social Contagion on Observational Networks**</ins><br/> 
-Jeremy Yang <br/>
-<!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/>
+<ins>**The drivers and outcomes of online community participation-a meta-analysis**</ins><br/> 
+With De Valck. K., and Wiertz. C. <br/>
 
-<ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.
+<!--<ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.>
+
+seminar and conference talks:<br/>
+\- Interactive Marketing Research Conference, 2020<br/>
+\- INFORMS Marketing Science Conference, 2020<br/>
 
 <ins>**Uncertainty and Information Diffusion**</ins> <!--[<a href="">paper</a>][<a href=" ">slides</a>]<br/> <br/>
 T. Tony Ke, Jeremy Yang<sup>*</sup> 
