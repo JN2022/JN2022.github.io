@@ -5,16 +5,22 @@
 I consider teaching as an integral part of academic work that builds an important bridge between marketing research and practice. 
 
 I guest lectured in the following courses: 
-<ins>Business analytics, 2022<br/>
-<ins>Meta analysis, 2021<br/>
+<ins> Business analytics<br/> (Masters), 2022 
+  
+<ins> Meta analysis<br/> (Phd), 2021 
 
 I help prepare for course materials and organize exersice sessions for the following courses:  
 <ins>Statistics and business analytics, 2020-2022<br/>
+ 
 <ins>Data Science camp, 2020-2022<br/>
+  
 <ins>Math camp, 2022<br/>
+  
 <ins>Statistics, 2019<br/>
-<ins>>Marketing core course, 2017<br/>
+  
+<ins>Marketing core course, 2017<br/>
 
+  
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
 
