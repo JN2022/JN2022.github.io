@@ -1,10 +1,19 @@
-[home](./). [cv](./assets/files/CV.pdf). [research](./research.md). [teaching](./teaching.md). [thoughts](./thought.md). [personal](./hobby.md). [failed projects](./failed.md).
+[Home](./). [CV](./assets/files/Jing Niu CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 ### teaching 
 
-I'm teaching Marketing in the MBA required curriculum at HBS.
+I consider teaching as an integral part of academic work that builds an important bridge between marketing research and practice. 
 
-I was a guest lecturer at MIT for:
+I guest lectured in the following courses: 
+<br/>Business analytics, 2022<br/>
+<br/>Meta analysis, 2021<br/>
+
+I help prepare for course materials and organize exersice sessions for the following courses:  
+<ins>Statistics and business analytics, 2020-2022<br/>
+<br/>Data Science camp, 2020-2022<br/>
+<br/>Math camp, 2022<br/>
+<br/>Statistics, 2019<br/>
+<br/>Marketing core course, 2017<br/>
 
 <ins>Marketing Innovation</ins> (MBA Core) <br/>
 [Rahul Bhui](https://mitsloan.mit.edu/faculty/directory/rahul-bhui), Spring 2021
