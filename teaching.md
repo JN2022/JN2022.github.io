@@ -6,22 +6,16 @@ I consider teaching as an integral part of academic work that builds an importan
 
 I guest lectured in the following courses: <br/> 
 
-\- Business analytics  (Master), 2022 <br/>
-  
-<ins> Meta analysis</ins>  (Phd), 2021 <br/> 
+\- Business analytics  (Master), 2022 <br/>  
+\- Meta analysis  (Phd), 2021 <br/> 
 
 I help prepare for course materials and organize exersice sessions for the following courses:  
-<ins>Statistics and business analytics </ins> (MBA core), 2020-2022<br/>
- 
-<ins>Data Science camp</ins> (MBA core), 2020-2022<br/>
-  
-<ins>Math camp</ins> (MBA core), 2022<br/>
-  
-<ins>Statistics</ins> (Master core), 2019<br/>
-
-<ins>Marketing Through Social Media</ins> (Master,Virtual), 2019<br/>
-  
-<ins>Marketing</ins> (MBA core) , 2017<br/>
+\-Statistics and business analytics (MBA core), 2020-2022<br/> 
+\-Data Science camp(MBA core), 2020-2022<br/>  
+\-Math camp (MBA core), 2022<br/>  
+\-Statistics (Master core), 2019<br/>
+\-Marketing Through Social Media (Master,Virtual), 2019<br/>  
+\-Marketing(MBA core) , 2017<br/>
 
 
 
