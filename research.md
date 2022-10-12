@@ -4,11 +4,13 @@ layout: default
 
 [Home](./). [CV](./assets/files/Jing Niu CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
-### research 
+### Research 
 
-My dissertation is on learning to design, deliver, and diffuse interventions. I study what treatment features make it effective (design), who should be targeted with what (deliver), and how to engineer social contagion (diffuse).
+I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.edu/en/knowledge/authors/ebbes-peter), [Kristine De Valck](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/devalck-kristine) (co-chairs) at HEC. 
 
-I also study topics in the creator economy. The problems I'm currently focusing on are 1) aiding the creative process and identifying creative trends in a data-driven way, 2) the causes and consequences of the concentration and mobility of influence among creators across platforms, 3) improving creator and brand collaboration through more effective matching and monitoring, 4) creators as founders and monetization schemes in web2 and 3, and 5) platforms' competition for users, creators, and brands.
+In general, my research interests in <ins>online communities participation</ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
+In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>
+
 
 
 <!--
