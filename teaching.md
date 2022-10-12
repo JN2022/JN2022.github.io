@@ -17,6 +17,8 @@ I help prepare for course materials and organize exersice sessions for the follo
 <ins>Math camp</ins> (MBA core), 2022<br/>
   
 <ins>Statistics</ins> (Master core), 2019<br/>
+
+<ins>Marketing Through Social Media</ins> (Master,Virtual), 2019<br/>
   
 <ins>Marketing</ins> (MBA core) , 2017<br/>
 
