@@ -11,7 +11,7 @@ I guest lectured in the following courses: <br/>
 I help prepare for course materials and organize exersice sessions for the following courses:  
 \-Statistics and business analytics (MBA core), 2020-2022<br/> 
 \-Data Science camp (MBA core), 2020-2022<br/> 
-\-Math campb (MBA core), 2022<br/>  
+\-Math campb (MBA core), 2022<br/>
 \-Statistics (Master core), 2019<br/>
 \-Marketing Through Social Media (Master,Virtual), 2019<br/> 
 \-Marketing (MBA core), 2017 <br/> 
