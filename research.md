@@ -12,11 +12,6 @@ I am interested in understanding how social media users interact and what is the
 
 Specifically, I study what motivates social media users' interactions (<ins>the antecedents</ins>), what determines patterns of different users' activities (<ins>the content</ins>), what influences the effectiveness of social media activities (<ins>the implementation</ins>), and what determines the outcomes of those activities (<ins>the consequences</ins>). 
 
-In my dissertation, I focus on topics related to online community participation and social media influencer campaigns, including: 
-1) causes and consequences of social media activities
-2) influencers' content creation strategies and their impact on campaign outcomes  
-3) factors influencing the effectiveness of influencer campaigns
-
 <!--<ins>In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
 In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>-->
 
