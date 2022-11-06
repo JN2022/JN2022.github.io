@@ -33,7 +33,7 @@ Seminar and conference talks:<br/>
 \- INFORMS Marketing Science Conference, 2020<br/>
 
 
-<ins>**Beyond follower size: investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance**
+<ins>**Beyond follower size: investigating influencers’ endorsing content creation strategies**
 </ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
 
