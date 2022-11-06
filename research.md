@@ -6,7 +6,7 @@ layout: default
 
 ### Research 
 
-I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.edu/en/knowledge/authors/ebbes-peter), [Kristine De Valck](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/devalck-kristine) (co-chairs) at HEC. 
+I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/ebbes-peter), [Kristine De Valck](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/devalck-kristine) (co-chairs) at HEC. 
 
 In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
 In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>
