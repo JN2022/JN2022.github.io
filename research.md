@@ -42,7 +42,7 @@ With De Valck. K., and Ebbes. P. <br/>
 Seminar and conference talks:<br/>
 \- European Marketing Academy Conference Doctoral Colloquium, 2022<br/>
 \- ESSEC-HEC-INSEAD Marketing Campaign, 2022<br/>
-\- HiPARIS Summer School on AI \& Data for Science - Post session, 2022<br/>
+\- HiPARIS Summer School on AI \& Data for Science - Poster session, 2022<br/>
 
 <ins>**The effectiveness of social media influencer campaigns**
 </ins><br/> 
