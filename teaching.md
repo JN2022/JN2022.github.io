@@ -1,4 +1,4 @@
-[Home](./). [CV](./assets/files/Jing Niu CV.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
+[Home](./). [CV](./assets/Curriculum Vitae _Jing Niu.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 ### Teaching 
 
