@@ -10,7 +10,7 @@ I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.ed
 
 I am interested in understanding how social media users interact and what is the impact of their interactions using a combination of quantitative and qualitative methodologies, including meta-analysis, cluster analysis, causal inference, and machine learning algorithms. 
 
-Specifically, I study what motivates social media users' interactions <ins>(the antecedents)</ins>, what determines patterns of different users' activities <ins>(the content)</ins>, what influences the effectiveness of social media activities <ins>(the implementation)</ins>, and what determines the outcomes of those activities <ins>(the consequences)</ins>. 
+Specifically, I study what motivates social media users' interactions (<ins>the antecedents</ins>), what determines patterns of different users' activities (<ins>the content</ins>), what influences the effectiveness of social media activities (<ins>the implementation</ins>), and what determines the outcomes of those activities (<ins>the consequences</ins>). 
 
 In my dissertation, I focus on topics related to online community participation and social media influencer campaigns, including: 
 1) causes and consequences of social media activities
