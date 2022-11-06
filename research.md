@@ -8,15 +8,22 @@ layout: default
 
 I'm fortuante to have my training supervised by [Peter Ebbes](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/ebbes-peter), [Kristine De Valck](https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/devalck-kristine) (co-chairs) at HEC. 
 
-In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
-In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>
+I am interested in understanding how social media users interact and what is the impact of their interactions using a combination of quantitative and qualitative methodologies, including meta-analysis, cluster analysis, causal inference, and machine learning algorithms. 
+Specifically, I study <ins>what motivates social media users' interactions (the antecedents)</ins>, <ins>what determines patterns of different users' activities (the content)</ins>, <ins>what influences the effectiveness of social media activities (the implementation)</ins>, and<ins>what determines the outcomes of those activities (the consequences)</ins>. 
+In my dissertation, I focus on topics related to online community participation and social media influencer campaigns, including: 
+1) causes and consequences of social media activities
+2) influencers' content creation strategies and their impact on campaign outcomes  
+3) factors influencing the effectiveness of influencer campaigns
+
+<!--<ins>In general, my research interests in <ins>online communities participation </ins>, <ins>social media influencer marketing</ins> and <ins>social media advertising</ins>.<br/>
+In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>causal inference and causal identification</ins>, <ins>meta analysis</ins>, <ins>cluster analysis</ins>, and <ins>network analysis</ins> in the current research.<br/>-->
 
 #### Working papers:
 
 <ins>**Beyond follower size--investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance.**
 </ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
-<!--<ins>Abstract:</ins> Decision makers often want to target interventions so as to maximize an outcome that is observed only in the long-term. This typically requires delaying decisions until the outcome is observed or relying on simple short-term proxies for the long-term outcome. Here we build on the statistical surrogacy and policy learning literatures to impute the missing long-term outcomes and then approximate the optimal targeting policy on the imputed outcomes via a doubly-robust approach. We first show that conditions for the validity of average treatment effect estimation with imputed outcomes are also sufficient for valid policy evaluation and optimization; furthermore, these conditions can be somewhat relaxed for policy optimization. We apply our approach in two large-scale proactive churn management experiments at The Boston Globe by targeting optimal discounts to its digital subscribers with the aim of maximizing long-term revenue.  Using the first experiment, we evaluate this approach empirically by comparing the policy learned using imputed outcomes with a policy learned on the ground-truth, long-term outcomes. The performance of these two policies is statistically indistinguishable, and we rule out large losses from relying on surrogates. Our approach also outperforms a policy learned on short-term proxies for the long-term outcome. In a second field experiment, we implement the optimal targeting policy with additional randomized exploration, which allows us to update the optimal policy for future subscribers. Over three years, our approach had a net-positive revenue impact in the range of $4-5 million compared to the status quo.-->
+<ins>Abstract:</ins>  Social media influencers play essential roles in brands' communication with target consumers. Optimizing social media campaigns with influencers has remained a hot topic recently. While most research has focused on influencer selection based on their network degrees, expertise, or other characteristics, this paper investigates influencers' content creation strategy(ies) once they have been selected by the company. We propose that influencers utilize more than one strategy to create content for a campaign based on their multiple personas (a peer to the audience, a persuasive-based brand agent, and a marketer of their self-brand). Our empirical approach employs quantified content data of more than 2500 sponsored Instagram posts to conduct a latent cluster analysis. We document distinct content creation strategies influencers used in practice and provide evidence that influencers' strategy choices are not related to their follower sizes and experience levels (i.e. number of past paid posts and tenure as an Instagrammer). These findings shed light on marketing managers' influencer selection and assessment for future campaigns.  
 
 Seminar and conference talks:<br/>
 \- European Marketing Academy Conference Doctoral Colloquium, 2022<br/>
@@ -38,14 +45,14 @@ Seminar and conference talks:<br/>
 
 
 
-<ins>**The drivers and outcomes of online community participation-a meta-analysis**</ins><br/> 
+<ins>**The drivers and outcomes of online community participation: a meta analysis.**</ins><br/> 
 With De Valck. K., and Wiertz. C. <br/>
-
+ \- _Job Market Paper_<br/> 
 Seminar and conference talks:<br/>
 \- Interactive Marketing Research Conference, 2020<br/>
 \- INFORMS Marketing Science Conference, 2020<br/>
 
-<!--<ins>Abstract:</ins> In social networks, ego behavior is usually a function of the behaviors of her alters'. However, such social contagion or peer effect is hard to identify empirically using observational networks due to endogeneity in tie formation. The latent space models have been proposed under the assumption of assortative mixing as a method of modeling the underlying tie generating process, and it also has been used to adjust for unobserved homophily. At the meantime, Pearl (2009, 2010) suggested that adjusting for one common cause of treatment and outcome might actually increase the net bias by amplifying the bias introduced by an unadjusted confounder. The first part of the paper is on identification: I fit a latent space model to a classic dataset on the diffusion of medical innovation (Coleman et al., 1957,1966) to identify social contagion. The second part is on bias-amplification: I extend Pearl's framework to a nonlinear system and then use simulation to demonstrate that latent space adjustment can sometimes amplify the net bias, thus it should be used with caution.>
+<ins>Abstract:</ins> Online communities are since long recognized as useful marketing tools. Understanding what motivates community members to interact with each other and what the outcomes of their interactions are helps enhance the efficiency of marketing interventions. Although numerous researchers from multiple disciplines have studied what drives consumers to participate in online communities and with what outcomes, findings from extant studies are sometimes conflicting and insights are fragmented. We summarize twenty years of online community research by means of a meta-analysis of 72 articles to provide generalized insights in drivers and outcomes of online community participation. The findings suggest that members' participation in online communities is motivated by five types of drivers (emotional, functional, and social bonding needs, social norm pressure, and platform-initiated incentives), and their participation benefits a variety of stakeholders (the members themselves, the community, and the related brands). There is a variation in the strength of driving and outcome effects across community types, community ownership, participation types, and research methods. By systematically integrating the two most important factors related to online community participation, this study contributes to the literature on online community participation.
 
 
 
