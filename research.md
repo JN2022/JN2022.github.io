@@ -22,9 +22,21 @@ In terms research methodology, I apply <ins>image and text analysis</ins>, <ins>
 
 #### Working papers:
 
-<ins>**Beyond follower size--investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance.**
+<ins>**The drivers and outcomes of online community participation: a meta analysis**</ins><br/> 
+With De Valck. K., and Wiertz. C. <br/>
+ \- _Job Market Paper_<br/> 
+
+<ins>Abstract:</ins> Online communities are since long recognized as useful marketing tools. Understanding what motivates community members to interact with each other and what the outcomes of their interactions are helps enhance the efficiency of marketing interventions. Although numerous researchers from multiple disciplines have studied what drives consumers to participate in online communities and with what outcomes, findings from extant studies are sometimes conflicting and insights are fragmented. We summarize twenty years of online community research by means of a meta-analysis of 72 articles to provide generalized insights in drivers and outcomes of online community participation. The findings suggest that members' participation in online communities is motivated by five types of drivers (emotional, functional, and social bonding needs, social norm pressure, and platform-initiated incentives), and their participation benefits a variety of stakeholders (the members themselves, the community, and the related brands). There is a variation in the strength of driving and outcome effects across community types, community ownership, participation types, and research methods. By systematically integrating the two most important factors related to online community participation, this study contributes to the literature on online community participation.
+
+Seminar and conference talks:<br/>
+\- Interactive Marketing Research Conference, 2020<br/>
+\- INFORMS Marketing Science Conference, 2020<br/>
+
+
+<ins>**Beyond follower size: investigating influencers' endorsing content creation strategies and the impact on influencer campaign performance**
 </ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
+
 <ins>Abstract:</ins>  Social media influencers play essential roles in brands' communication with target consumers. Optimizing social media campaigns with influencers has remained a hot topic recently. While most research has focused on influencer selection based on their network degrees, expertise, or other characteristics, this paper investigates influencers' content creation strategy(ies) once they have been selected by the company. We propose that influencers utilize more than one strategy to create content for a campaign based on their multiple personas (a peer to the audience, a persuasive-based brand agent, and a marketer of their self-brand). Our empirical approach employs quantified content data of more than 2500 sponsored Instagram posts to conduct a latent cluster analysis. We document distinct content creation strategies influencers used in practice and provide evidence that influencers' strategy choices are not related to their follower sizes and experience levels (i.e. number of past paid posts and tenure as an Instagrammer). These findings shed light on marketing managers' influencer selection and assessment for future campaigns.  
 
 Seminar and conference talks:<br/>
@@ -36,25 +48,14 @@ Seminar and conference talks:<br/>
 </ins><br/> 
 With De Valck. K., and Ebbes. P. <br/> 
 
+<ins>Abstract:</ins> Previous research in influencer marketing suggests firms seed macro-influencers who have high (in-degree) connectivity in social networks––while in practice, more and more marketers engage micro-influencers (with lower indegree). Analyzing a large dataset of sponsored posts on Instagram, we compare the effectiveness of micro-influencers and macro-influencers by considering both audience engagement with posts and endorsement compensations. Specifically, we investigate the effects of influencers' content creation strategy, follower sizes, and brands' monitoring on campaign effectiveness with other campaign features carefully controlled. Our preliminary findings suggest that influencers' content creation strategies moderate the relationship between their follower size and campaign effectiveness. Our work provides novel insights that aid marketers in influencer assessment and social media campaign implementation. 
+
 Seminar and conference talks:<br/>
 \- (Session chair) INFORMS Marketing Science Conference, 2020<br/>
 \- (Accepted but canceled due to Covid-19) European Marketing Academy Conference, 2020<br/>
 
-<!-- \- _Job Market Paper_<br/> -->
-
-<!--<ins>Abstract:</ins> This paper engineers an intuitive feature that is predictive of the causal effect of influencer video advertising on product sales. We propose the concept of motion-score, or m-score, a summary statistic that captures the extent to which a product is advertised in the most engaging parts of a video. We locate pixel-level product placement with an object detection algorithm and estimate pixel-level engagement as a saliency map by fine-tuning a deep 3D convolutional neural network on video-level engagement data. M-score is then defined as pixel-level engagement-weighted advertising intensity of a video. We construct and evaluate the algorithm with around 40,000 influencer video ads on TikTok, the largest short video platform of the world. We leverage variation in video posting time to identify the causal effect of video ads on product sales. Videos of higher m-score indeed lift more sales. This effect is sizable, robust, and more pronounced among impulsive, hedonic, or inexpensive products. We trace the mechanism to influencers' incentives to promote themselves rather than the product. We discuss how various stakeholders in entertainment commerce can use m-score in a scalable way to optimize content, align incentives, and improve efficiency. -->
 
 
-
-
-<ins>**The drivers and outcomes of online community participation: a meta analysis.**</ins><br/> 
-With De Valck. K., and Wiertz. C. <br/>
- \- _Job Market Paper_<br/> 
-Seminar and conference talks:<br/>
-\- Interactive Marketing Research Conference, 2020<br/>
-\- INFORMS Marketing Science Conference, 2020<br/>
-
-<ins>Abstract:</ins> Online communities are since long recognized as useful marketing tools. Understanding what motivates community members to interact with each other and what the outcomes of their interactions are helps enhance the efficiency of marketing interventions. Although numerous researchers from multiple disciplines have studied what drives consumers to participate in online communities and with what outcomes, findings from extant studies are sometimes conflicting and insights are fragmented. We summarize twenty years of online community research by means of a meta-analysis of 72 articles to provide generalized insights in drivers and outcomes of online community participation. The findings suggest that members' participation in online communities is motivated by five types of drivers (emotional, functional, and social bonding needs, social norm pressure, and platform-initiated incentives), and their participation benefits a variety of stakeholders (the members themselves, the community, and the related brands). There is a variation in the strength of driving and outcome effects across community types, community ownership, participation types, and research methods. By systematically integrating the two most important factors related to online community participation, this study contributes to the literature on online community participation.
 
 
 
