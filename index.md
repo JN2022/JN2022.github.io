@@ -4,7 +4,7 @@ layout: default
 
 [Home](./). [CV](./assets/files/Curriculum Vitae _Jing Niu.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
-I’m Phd candidate majoring in quatative marketing at HEC Paris. 
+I’m PhD candidate majoring in quantitative marketing at HEC Paris. 
 
 Through my research , I analyze social media data using various empirical methodologies to provide managerially relevant insights and strategic guidelines that can help firms adapt their influencer marketing practice and influencers develop their careers.
 
