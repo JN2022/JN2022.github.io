@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./). [CV](./assets/files/Curriculum Vitae _Jing Niu.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
+[Home](./). [CV](./assets/files/Jing NIU_CV_2023-08.pdf). [Research](./research.md). [Teaching](./teaching.md). [More about me](./hobby.md)
 
 I’m a quantative Marketing researcher in the University of Liverpool Management School (ULMS).
 
